@@ -1,0 +1,6 @@
+- use cloudinary
+- https://cloudinary.com/documentation/javascript_quick_start#view_the_completed_code
+- intergrate with netlify cms
+- have a way to programtically upload images
+- How will the user upload images to the platform?
+- public id
